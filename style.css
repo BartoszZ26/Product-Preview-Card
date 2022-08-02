@@ -89,6 +89,9 @@ figure.preview-card button:active {
     figure.preview-card button:hover {
         background-color: hsl(212, 21%, 14%);
     }
+    figure.preview-card button:focus {
+        background-color: hsl(212, 21%, 14%);
+    }
     figure.preview-card {
         margin-top: 1rem;
         margin-bottom: 1rem;
